@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkG3Z9nEeCid+qso/Sx7qVVwQxsdb2FqX3AfrhlkqXBDCwQYI4dF2JDvX58MHNk0NkSUHujKEYrrKu7uraQ5yA==",
+  "success": true,
+  "projectFilePath": "D:\\IDP\\Alina\\c-full-stack\\c-full-stack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
